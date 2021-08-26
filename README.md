@@ -22,9 +22,15 @@
 
 * ["C Tree Structure"](https://github.com/egemenengin/CTreeStructure "C Tree Structure")
 
+## Java Projects
+
+* [Java Board Game "TriviaLand"](https://github.com/egemenengin/TriviaLand "Java Board Game")
+
 ## Python Projects
 
 * ["Python Logo Printer"](https://github.com/egemenengin/LogoPrinter "Python Logo Printer")
 
 ## Haskell Projects
+
 * ["Haskell Maze Solver"](https://github.com/egemenengin/HaskellMazeSolver "Haskell Maze Solver")
+
