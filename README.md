@@ -14,7 +14,7 @@
 
   ### Mobile Projects
 
-   * ["EE Driving" Unity Arcade Mobile Driving Game(NOT FINISHED YET)](https://github.com/egemenengin/BlockBreaker "EEDriving")
+   * ["EE Driving" Unity Arcade Mobile Driving Game(NOT FINISHED YET)](https://github.com/egemenengin/EEDriving "EEDriving")
 
 ## C Projects
 
