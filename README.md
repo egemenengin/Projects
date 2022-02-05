@@ -15,6 +15,9 @@
   ### Mobile Projects
 
    * ["EE Driving" Unity Arcade Mobile Driving Game(NOT FINISHED YET)](https://github.com/egemenengin/EEDriving "EEDriving")
+## Unreal Engine 5 Projects
+  ###  Blueprint Projects
+      * ["EE Maze" Unreal Engine 5 Blueprint Game Project](https://github.com/egemenengin/EE-Maze "EEMaze")
 
 ## C Projects
 
