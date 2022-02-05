@@ -2,6 +2,12 @@
 
 ## Unity Projects
 
+  ### Mobile Projects
+
+   * ["EE Driving" Unity Arcade Mobile Driving Game](https://github.com/egemenengin/EEDriving "EEDriving")
+   
+  ### 2D Projects
+
 * ["EEPlatformer" Unity Platformer Game](https://github.com/egemenengin/EEPlatformer "EEPlatformer")
 
 * ["Glitch Garden"](https://github.com/egemenengin/GlitchGarden "GlitchGarden")
@@ -12,9 +18,7 @@
 
 * ["Block Breaker"](https://github.com/egemenengin/BlockBreaker "Block Breaker")
 
-  ### Mobile Projects
 
-   * ["EE Driving" Unity Arcade Mobile Driving Game(NOT FINISHED YET)](https://github.com/egemenengin/EEDriving "EEDriving")
    
 ## Unreal Engine 5 Projects
 
