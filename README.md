@@ -24,7 +24,7 @@
 
   ### Blueprint Projects
   
-   * ["EE Maze" Unreal Engine 5 Blueprint Game Project](https://github.com/egemenengin/EE-Maze "EEMaze")
+   * ["EE Maze" Unreal Engine 5 Blueprint Game Project](https://github.com/egemenengin/EEMaze "EEMaze")
 
 ## C Projects
 
