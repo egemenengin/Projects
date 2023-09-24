@@ -13,7 +13,7 @@
 #   
 
 # `Unity Projects`  
-- Warsky (Senior Project) [Link](https://gitlab.com/berkay.ozek/warsky) [Video](https://www.youtube.com/channel/UCZc5ouRGurUzquRKa3b369w)
+- Warsky (Senior Project) [Link](https://gitlab.com/berkay.ozek/warsky) [Video](https://youtu.be/_GUjJN_wZeA)
 - Escape From The Office (Unity Version / Lecture Project) [Link](https://github.com/egemenengin/Escape-from-The-Office)
 - EEDriving [Link](https://github.com/egemenengin/EEDriving)
 - 3D Labyrinth (Lecture Assignment) [Link](https://github.com/egemenengin/CMPE316_Assignment01_3DLabyrinth_EgemenEngin)
