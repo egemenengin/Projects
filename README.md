@@ -8,8 +8,8 @@
 - CodeNameEchoNine (Third Person Shooter Game) [Link](https://github.com/egemenengin/CodeNameEchoNine)
 - Treasure Raider (Dungeon Puzzle Game) [Link](https://github.com/egemenengin/TreasureRaider)
 - The Last Tank (A Simple Arcade Tank Game) [Link](https://github.com/egemenengin/TheLastTank)
-- EEWipeOut (Simple Third Person Platformer Game) [Link](https://github.com/egemenengin/EEWipeOut)
 - EEMaze (Simple First Person Platformer Game) [Link](https://github.com/egemenengin/EEMaze)
+- EEWipeOut (Simple Third Person Platformer Game) [Link](https://github.com/egemenengin/EEWipeOut)
 #   
 
 # `Unity Projects`  
