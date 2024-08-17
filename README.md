@@ -1,3 +1,3 @@
 
 # `Projects and Certificates`  
-[Github Page](https://egemenengin.github.io/Projects/)
+You can find my projects and certificates in [Github Page](https://egemenengin.github.io/Projects/).
