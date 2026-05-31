@@ -208,7 +208,7 @@ const projects = [
     description:
       "A WPF AI development assistant with Code Safety, Code Quality, Code Explainer, and Function Creator workflows powered by OpenAI or Google Gemini.",
     tags: ["AI Tools", "WPF", "OpenAI", "Gemini", "Code Review"],
-    links: [{ label: "Video Link", href: "https://www.youtube.com" }]
+    links: [{ label: "Video Link", href: "https://youtu.be/R0Prdbo0hsc" }]
   }
 ];
 
